@@ -1,6 +1,7 @@
 # Virtual Environment - The folder causing the 10k changes
 libsTableTennis/
 labelVenv/
+kinematics/pio/
 
 # Python artifacts
 __pycache__/
