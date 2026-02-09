@@ -1,0 +1,16 @@
+# Virtual Environment - The folder causing the 10k changes
+libsTableTennis/
+labelVenv/
+kinematics/.pio/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
